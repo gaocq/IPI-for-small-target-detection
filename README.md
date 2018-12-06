@@ -3,6 +3,7 @@
 ## Introduction
 This source code  is for small target detection based on Infrared patch-image model in a single image.
 If you use this code in your publications, please cite:
+
 @article{Gao2013IPI,
    author = {Gao, Chenqiang and Meng, Deyu and Yang, Yi and Wang, Yongtao and Zhou, Xiaofang and Hauptmann, Alex},
    title = {Infrared Patch-Image Model for Small Target Detection in a Single Image},
@@ -14,6 +15,7 @@ If you use this code in your publications, please cite:
 }
 
 If you use the test images in your publications, in additoin to above reference, please cite the following reference, too:
+
 @article{Gao2012,
    author = {Chenqiang, Gao and Tianqi, Zhang and Qiang, Li},
    title = {Small infrared target detection using sparse ring representation},
@@ -29,10 +31,10 @@ Additionally, a good parameter setting for the code discussed in our paper is al
 
 Please note that this code does not contain the segmentation step. If you want to get the locations of small targets, you need to further use some segmentation algorithm.
 
-##How to use this code?
+## How to use this code?
 --You just run the the file of main.m in matlab. Our matlab version for development is Matlab2013a. 
 
-##Contact
+## Contact
 If you have any questions, please contact:
 Author: Chenqiang Gao
 Email: gaochenqiang@gmail.com *or* gaocq@cqupt.edu.cn
