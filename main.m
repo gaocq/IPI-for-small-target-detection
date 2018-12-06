@@ -20,13 +20,13 @@
 % Email: gaochenqiang@gmail.com or gaocq@cqupt.edu.cn
 % Copyright:  Chongqing University of Posts and Telecommunications
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%* License: Our code is only available for non-commercial research use.
+% License: Our code is only available for non-commercial research use.
 
 clc;
 close all;
-strDir = 'image/';
-strDir1 = 'result/';
-files = {'1.bmp', '2.bmp', '3.bmp', '4.bmp', '5.bmp'};
+strDir = 'images/';
+strDir1 = 'results/';
+files = {'1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg'};
 opt.dw = 50;
 opt.dh = 50;
 opt.x_step = 10;
