@@ -16,9 +16,9 @@ If you use this code in your publications, please cite:
 If you use the test images in your publications, in additoin to above reference, please cite the following reference, too:
 
 @article{Gao2012,  
->   author = {Chenqiang, Gao and Tianqi, Zhang and Qiang, Li},  
->  title = {Small infrared target detection using sparse ring representation},  
->   journal = {IEEE Aerospace and Electronic Systems Magazine},  
+  author = {Chenqiang, Gao and Tianqi, Zhang and Qiang, Li},  
+  title = {Small infrared target detection using sparse ring representation},  
+  journal = {IEEE Aerospace and Electronic Systems Magazine},  
    volume = {27},  
    number = {3},  
    pages = {21-30},  
