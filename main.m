@@ -58,3 +58,4 @@ for i=1:length(files)
     imwrite(E, [strDir1 'E/' files{i}]);
     imwrite(A, [strDir1 'A/' files{i}]);
 end
+saveas(gcf, './doc/result.png');

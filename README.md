@@ -1,5 +1,5 @@
 # IPI-for-small-target-detection
-
+![avatar](./doc/result.png)
 ## Introduction
 This source code  is for small target detection based on Infrared patch-image model in a single image.
 If you use this code in your publications, please cite:  
