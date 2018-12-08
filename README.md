@@ -31,7 +31,7 @@ Additionally, a good parameter setting for the code discussed in our paper is al
 Please note that this code does not contain the segmentation step. If you want to get the locations of small targets, you need to further use some segmentation algorithm.
 
 ## How to use this code?
-You just run the the file of *main.m* in matlab. Our matlab version for development is Matlab2013a. 
+You just run the file of *main.m* in matlab. Our matlab version for development is Matlab2013a. 
 
 ## Contact
 If you have any questions, please contact:  
